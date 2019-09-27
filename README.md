@@ -20,8 +20,8 @@ La segunda práctica consiste en obtener los multiplos de un número.
 # 6_3_Practica 3
 
 En esta práctica se pide crear dibujos de formas regulares como arte ascii, se realizarán rectangulos y triangulos escalenos.
-Se ocupó la biblioteca util para ingresar datos por el método Scanner, se utilizó el bucle while y sentencias if else para realizar los dibujos, también se implementó una forma de realizar los dibujos a cualquier distancia de inicio.
-Primero se realizó un cuadro para iniciar el programa.
+Se creó el programa -arteascii- y se ocupó la biblioteca util para ingresar datos por el método Scanner, se utilizó el bucle while y sentencias if else para realizar los dibujos, también se implementó una forma de realizar los dibujos a cualquier distancia de inicio.
+Primero se realizó un cuadro para iniciar el programa, utilizando una clase creada para ese propósito llamada -cuadrito-.
 
 ![Practica final 2](https://user-images.githubusercontent.com/54320247/65738788-a4788480-e0a8-11e9-99e3-f680f54087d3.jpg)
 
@@ -33,7 +33,7 @@ Se corrigió el problema pero se observa que el "cuadrado" tiene un tamaño mayo
 
 ![Practica final 4](https://user-images.githubusercontent.com/54320247/65738790-a4788480-e0a8-11e9-87d7-8641bed7ac77.jpg)
 
-Una vez hecho el "cuadrado" del tamaño correcto, se incorpora el triángulo, en la realización del triángulo existieron problemas de bucle infinito, los cuales se corrigieron conforme aparecían.
+Una vez hecho el "cuadrado" del tamaño correcto, se incorpora el triángulo, en la realización del triángulo existieron problemas de bucle infinito, los cuales se corrigieron conforme aparecían. Se creó la clase -triangulito- para su realización.
 
 ![Practica final 5](https://user-images.githubusercontent.com/54320247/65738791-a5111b00-e0a8-11e9-8903-b86786de8ad5.jpg)
 
