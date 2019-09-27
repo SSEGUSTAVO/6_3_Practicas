@@ -4,15 +4,18 @@ En estas prácticas se utilizaron los conocimientos adquiridos a lo largo del cu
 La primera práctica consiste en diseñar un programa para accesar por pin o contraseña y mostrar un mensaje de error y de éxito.
 Se diseñó el programa -pinbanco- y se utilizó la biblioteca util para ingresar datos con el método Scanner, de igual forma se usó el bucle while para realizar la validación del pin a 4 dígitos.
 
+![Practica 1](https://user-images.githubusercontent.com/54320247/65738933-3aacaa80-e0a9-11e9-9dd0-32f06ea0a5c3.jpg)
 
 Se observa que el diseño es muy simple, así que se modifica el programa para que en cada ingreso se muestre el mensaje "validando...".
 
+![Practica 2](https://user-images.githubusercontent.com/54320247/65738934-3aacaa80-e0a9-11e9-8f43-bc117c361e32.jpg)
 
 # 6_3_Practica 2
 
 La segunda práctica consiste en obtener los multiplos de un número.
 Ésta práctica es muy similar a la realizada en los ejercicios del bucle while y do while, simplemente se repitió el método y se obtuvo el resultado mostrado.
 
+![Practica 3](https://user-images.githubusercontent.com/54320247/65738935-3aacaa80-e0a9-11e9-944d-7909eff7ddd3.jpg)
 
 # 6_3_Practica 3
 
